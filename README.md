@@ -1,3 +1,3 @@
-##hola este es un readme
+## hola este es un readme
 doble espacio es cambio de linea  
-'entre comillas sencillas se escribe un codigo'
+´entre comillas sencillas se escribe un codigo´
